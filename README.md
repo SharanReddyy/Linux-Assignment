@@ -256,6 +256,10 @@ done
 
                    sudo find / -name "research.gz" -exec gunzip {} \;
 
+### The find command is sued to find the file named research with any extension and the gunzip xommand will uncompress the gzipped file.                   
+
+                   
+
 
 
 
