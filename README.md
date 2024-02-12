@@ -1,5 +1,5 @@
 # Linux-Assignment
-# 1. Configuring SMTP in localhost
+## 1. Configuring SMTP in localhost
 
 ### 1. Firstly, we need to make sure to have a user with sudo privileges in Linux system.
 
