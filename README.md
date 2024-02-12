@@ -250,6 +250,12 @@ done
 ![image](https://github.com/SharanReddyy/Linux-Assignment/assets/78129496/51d9c2bf-4fb6-419a-adc4-4e498f5ce951)
 
 
+##Update to question no.4
+
+###Finding and uncompressing a file using the find and gunzip commands
+
+                   sudo find / -name "research.gz" -exec gunzip {} \;
+
 
 
 
